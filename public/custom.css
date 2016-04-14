@@ -10,6 +10,10 @@ body {
   color: white;
 }
 
+.comic {
+  font-family: 'Comic Sans MS';
+}
+
 code {
   background-color: #4e4e4e;
   color: #e6e6e6;
