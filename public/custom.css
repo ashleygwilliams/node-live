@@ -54,6 +54,12 @@ a:visited, a:active, a {
   font-size: 2.5em;
 }
 
+.nodetogether h3 {
+  font-family: 'Courier', monospace;
+  color: #80bd01;
+  font-size: 3.5em;
+}
+
 .nodetogether {
   background-color: #2a303c;
   color: white;
