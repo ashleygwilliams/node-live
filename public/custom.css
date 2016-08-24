@@ -49,6 +49,15 @@ a:visited, a:active, a {
   width: 750px;
 }
 
+.dependencies li h2 {
+  margin-top: -50px;
+}
+
+.dependencies li img {
+  position: relative;
+  top: 40px;
+}
+
 .nodetogether pre {
   margin-top: -50px;
   color: #80bd01;
