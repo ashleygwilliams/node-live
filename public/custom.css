@@ -38,6 +38,7 @@ a:visited, a:active, a {
 .nodetogether h1 {
   font-family: 'Pacifico', sans-serif;
   font-size: 5em;
+  font-weight: 400;
 }
 
 .nodetogether h2, .nodetogether a {
